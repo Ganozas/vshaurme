@@ -1,1 +1,3 @@
-.idea
+.idea/
+
+git rm --cached .idea
